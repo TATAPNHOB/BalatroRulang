@@ -1,5 +1,5 @@
-# BalatroRulang
 Патч русской локализации Balatro для версии v1.0.1, исправляющий ошибки и добавляющий кириллический шрифт
+---
 Balatro v1.0.1's Russian Localization Patch, correcting linguistic and logical errors and adding a custom font with cyrillic glyphs
 ---
 ## Как установить?

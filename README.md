@@ -4,8 +4,8 @@ Balatro v1.0.1's Russian Localization Patch, correcting linguistic and logical e
 ---
 ## Как установить?
 1. Скачать архив последней версии lovely-injector из [их репозитория](https://github.com/ethangreen-dev/lovely-injector/releases)
-2. Извлечь файл `version.dll` в папку `...Steam/steamapps/common/Balatro`
-3. Открыть папку `AppData/Roaming/Balatro` (Win+R, ввести `%appdata%` и нажать Enter, найти в списке папку Balatro) и извлечь файлы из последнего релиза.
+2. Извлечь файл `version.dll` в папку `...Steam/steamapps/common/Balatro` (чтобы найти папку: ПКМ по игре в списке игр в библиотеке в Steam, "просмотреть локальные файлы")
+3. Открыть папку `AppData/Roaming/Balatro` (чтобы найти папку: Win+R, ввести `%appdata%` и нажать Enter, найти в списке папку Balatro) и извлечь файлы из последнего [релиза патча](https://github.com/TATAPNHOB/balatrorulang/releases)
 4. Открыть игру через Steam
 
 ### ГЛОБАЛЬНЫЕ ИЗМЕНЕНИЯ

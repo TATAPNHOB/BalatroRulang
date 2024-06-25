@@ -8,6 +8,9 @@ Balatro v1.0.1's Russian Localization Patch, correcting linguistic and logical e
 3. Открыть папку `AppData/Roaming/Balatro` (чтобы найти папку: Win+R, ввести `%appdata%` и нажать Enter, найти в списке папку Balatro) и извлечь файлы из последнего [релиза патча](https://github.com/TATAPNHOB/balatrorulang/releases)
 4. Открыть игру через Steam
 
+# ИЗМЕНЕНИЯ
+(Могут быть неточны на данный момент)
+
 ### ГЛОБАЛЬНЫЕ ИЗМЕНЕНИЯ
 - Теги теперь жетоны
 - Ваучеры теперь талоны
